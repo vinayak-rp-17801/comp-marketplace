@@ -1,0 +1,22 @@
+Compliance / Regulation: Cybersäkerhetslagen (Swedish Cybersecurity Act, SFS 2025:1506) - Sweden
+Enforcing authority: MCF - Myndigheten för civilt försvar (national coordinator & CSIRT;
+renamed from MSB on 1 January 2026), mcf.se
+
+LOGO RESOLUTION
+National NIS2 transposition with NO official compliance mark. Used the enforcing authority's
+(MCF) official logo. AGENCY mark, NOT a compliance/endorsement badge.
+
+Logo URL : https://www.mcf.se/contentassets/86a054998a844e7196fa9a1a625a2442/mcf_rgb_positiv_150ppi.png
+Source   : Official site mcf.se - header logo
+License  : Swedish public-authority logo. Agency identity mark; use restricted
+           (must not imply endorsement or compliance).
+Commercial use: Restricted - agency identity mark.
+Why selected  : MCF is the national coordinator and CSIRT for the Swedish Cybersecurity Act.
+                Current MCF logo used (not the predecessor MSB mark) after the Jan 2026 rename.
+Decision : Wide horizontal logo (three-crowns crest + "Myndigheten för civilt försvar").
+           SYMBOL-ONLY rule applied: crest only (crop x=0-66 of 340x118, gap at x=67-74)
+           for 84x84 and 180x180; full crest + wordmark for 740x340.
+Provenance: Original PNG reused from the verified 2026-06-08 batch archive; 84/180/740
+           re-rendered 2026-07-14 with logo_tools.py (--symbol-crop 0,0,67,118) because the
+           archived 84/180 contained the full logo with unreadable text.
+Date     : 2026-07-14

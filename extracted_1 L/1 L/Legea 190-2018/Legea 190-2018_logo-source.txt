@@ -1,0 +1,18 @@
+Compliance: Legea 190/2018 (Romanian GDPR implementation law) - Romania
+Enforcing authority: ANSPDCP (Autoritatea Națională de Supraveghere a Prelucrării Datelor cu Caracter Personal)
+
+LOGO RESOLUTION
+National GDPR implementation law with NO official compliance mark. Used the supervisory
+authority's (ANSPDCP) official logo. AGENCY logo, NOT a compliance/endorsement mark.
+
+Logo URL : https://www.dataprotection.ro/servlet/ViewImage?id=1722  (sigla_anspdcp_2.png, 902x886)
+Source   : Official site dataprotection.ro - header logo
+License  : Romanian public-authority logo; all rights reserved / use restricted - must not imply
+           certification, compliance or endorsement.
+Commercial use: Restricted - agency identity mark.
+Why selected  : ANSPDCP is the Romanian data-protection supervisory authority for Legea 190/2018.
+                Official header logo from the regulator's own site. Re-verified 2026-07-14
+                (identical bytes to the 2026-06-08 archive copy).
+Decision : Compact near-square "ANS PDCP" lettermark with Romanian tricolor banner - FULL logo
+           at all 3 sizes (no symbol-only crop). Source PNG already has transparent background.
+Date     : 2026-07-14

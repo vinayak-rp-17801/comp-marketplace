@@ -1,0 +1,11 @@
+N. 125(I)/2018 (Cyprus GDPR implementation law) - Cyprus
+Authority / logo: Office of the Commissioner for Personal Data Protection (Cyprus DPA), dataprotection.gov.cy
+
+Logo URL: https://www.dataprotection.gov.cy/dataprotection/dataprotection.nsf/new-logo2.gif
+Source:   https://www.dataprotection.gov.cy/ (official site header logo)
+Why selected: No official compliance mark for Law 125(I)/2018. Per logo-resolution order used the supervisory authority (Office of the Commissioner for Personal Data Protection) official header logo. Agency mark, NOT a compliance/endorsement badge.
+License / commercial use: Cypriot public-authority logo; restricted use.
+Decisions: Vetted original GIF (1162x98) reused from the 2026-06-08 batch. Light-grey background keyed to transparent (corner-sampled). SYMBOL-ONLY rule: blue/gold circular figure emblem (crop 0,0,86,81 of keyed 1100x81) for 84/180; full emblem + Greek wordmark for 740x340.
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

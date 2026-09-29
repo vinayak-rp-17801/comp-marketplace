@@ -1,0 +1,21 @@
+Compliance: DfE Cyber Security Standards — UK Department for Education cyber security standards for schools & colleges
+Date: 2026-07-14
+
+Logo URL: https://upload.wikimedia.org/wikipedia/en/6/68/Department_for_Education.svg
+Source: English Wikipedia file File:Department_for_Education.svg (vector of the official gov.uk DfE identity:
+Royal Arms crest + "Department for Education" wordmark + navy left bar), matching the DfE organisation branding on gov.uk.
+
+Why selected: The DfE cyber security standards themselves have NO badge/mark. Per the logo resolution order,
+the enforcing/issuing agency's logo (DfE) was used. This is the AGENCY logo, NOT a compliance mark.
+
+License / commercial use: RESTRICTED — British Crown copyright, NOT covered by the Open Government Licence
+(OGL v3 explicitly EXCLUDES departmental logos, crests and the Royal Arms). Hosted on en.wikipedia under
+fair-use. Archived + rendered per playbook precedent (PCI SSC) with the restriction recorded: do not use to
+imply endorsement by DfE/HM Government; Royal Arms usage rules apply.
+
+Decisions:
+- Symbol-only rule applied: 84x84 / 180x180 = Royal Arms crest portion only (crop 236,0,1085,754 of 3200x1892
+  8x raster) — the crest is part of the confirmed DfE logo (precedent: OAIC/Australia crest crop);
+  740x340 = full logo (bar + crest + wordmark).
+- SVG rasterized with Playwright Chromium at 8x, transparent (saved as DfE Cyber Security Standards_raster.png).
+Files: DfE Cyber Security Standards_original.svg (do not modify), _raster.png, _84x84.png, _180x180.png, _740x340.png

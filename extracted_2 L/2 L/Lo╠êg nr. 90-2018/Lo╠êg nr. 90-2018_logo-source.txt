@@ -1,0 +1,13 @@
+Lög nr. 90/2018 (Data Protection Act) - Iceland
+Authority / logo: Persónuvernd - Icelandic Data Protection Authority
+
+Logo URLs:
+  Full logo (symbol + PERSONUVERND wordmark, 232x130): https://images.ctfassets.net/8k0h54kbe6bj/pxUFjgkNgIlFVuFSdw5WZ/fb38bd0465caec2691e04c14c18d5f13/Personuvernd_logo.png
+  Standalone symbol, higher-res (427x427): https://images.ctfassets.net/8k0h54kbe6bj/5nW3e7T3j7xw3QoepQQMSz/f988a7ca6c2699c0ee073c0591727d56/Personuvernd-logo_hringur_fyrir_vef_Island-center.png
+Source:   https://island.is/s/personuvernd (official Personuvernd pages on island.is; personuvernd.is redirects there)
+Why selected: No official compliance mark exists for Act 90/2018. Per the logo-resolution order the supervisory authority's (Personuvernd) official logo was used. Improvement over the 2026-06-08 batch: found the higher-resolution standalone symbol asset ("hringur fyrir vef") for the small sizes.
+License / commercial use: Icelandic public-authority logo; restricted use.
+Decisions: Symbol-only rule: blue-arc + bars symbol (427x427 asset) for 84x84/180x180; full logo (symbol + PERSONU VERND wordmark, white keyed to transparent) for 740x340 (soft at 740 - source is only 232x130). Saved as _original.png (full logo) and _original-symbol.png (symbol asset).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo, NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

@@ -1,0 +1,19 @@
+Compliance: OWASP ASVS — OWASP Application Security Verification Standard
+Date: 2026-07-14
+
+Logo URL: https://owasp.org/assets/images/logo.png (1000x348, transparent, black art + (R))
+Source: Official owasp.org site header logo (OWASP Foundation).
+
+Why selected: Checked the ASVS project first per resolution order — the OWASP/ASVS GitHub repo (images/,
+images/old/) contains only diagrams (workflow, levels) and the project page only has a LinkedIn banner JPG;
+there is NO dedicated ASVS logo. Fell back to the OWASP Foundation logo (parent organisation). This is the
+FOUNDATION logo, NOT a certification mark.
+
+License / commercial use: OWASP site content is CC BY-SA 4.0 (attribution + share-alike); however the OWASP
+name/logo is a registered trademark ((R) in the mark) of the OWASP Foundation — OWASP brand usage rules apply;
+do not imply OWASP endorsement or ASVS certification. ASVS standard itself is CC BY-SA 4.0.
+
+Decisions:
+- Symbol-only rule applied: wide horizontal layout (wasp-in-circle symbol + "OWASP" wordmark).
+  84x84 / 180x180 = wasp circle symbol only (trim-relative crop 0,0,285,273); 740x340 = full logo (symbol + OWASP + (R)).
+Files: OWASP ASVS_original.png (do not modify), _84x84.png, _180x180.png, _740x340.png

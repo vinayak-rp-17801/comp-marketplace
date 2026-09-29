@@ -1,0 +1,24 @@
+Compliance: Personopplysningsloven (Norwegian Personal Data Act)
+Short name used: Personopplysningsloven
+Date: 2026-07-14
+
+LOGO RESOLUTION
+The Personal Data Act (Lov om behandling av personopplysninger, Law No. 38 of 15 Jun 2018 — Norway's GDPR implementation) has NO official compliance/certification badge. Per the logo-resolution order, fell back to the enforcing agency: Datatilsynet (Norwegian Data Protection Authority, datatilsynet.no), the supervisory authority for the Act.
+
+>> This is the Datatilsynet agency logo, NOT a "Personopplysningsloven / GDPR compliant" mark. It must not be used to imply compliance, certification, or Datatilsynet endorsement.
+
+Logo URLs:
+  Full wordmark (740x340): https://www.datatilsynet.no/UI/datatilsynetLogo.png  (202x50 PNG — "walking figures" symbol + "Datatilsynet" text)
+  Symbol (84/180):         https://www.datatilsynet.no/UI/Icons/android-chrome-192x192.png  (192x192 PNG app icon — the walking-figures mark)
+Source:    Official Datatilsynet website (datatilsynet.no) header logo + site app-icon set. Confirmed official branding (site header + favicon/app icon). Source independently validated in the 2026-06-08 batch; reused here.
+Why selected: Confirmed official logo from the regulator's own site. No higher-resolution vector is published publicly; no Wikimedia/PD alternative.
+License:   Datatilsynet / Norwegian public-authority logo — all rights reserved as an agency mark. Use governed by Datatilsynet branding; do not use to imply endorsement.
+Commercial use: Restricted — official agency logo; verify against Datatilsynet usage terms before product use.
+
+RENDERING — SYMBOL-ONLY RULE APPLIED
+Wide horizontal wordmark (figures symbol + "Datatilsynet"); text unreadable at small sizes.
+  84x84 / 180x180 -> walking-figures SYMBOL only (from the 192px app icon; near-uniform light background keyed to transparent).
+  740x340         -> FULL wordmark (figures + "Datatilsynet"); light background keyed to transparent.
+Pillow processing (logo_tools.py): background keying, trim, square-pad (symbol), multi-step LANCZOS + UnsharpMask. NOTE: wordmark source is low-resolution (202x50) — inherently soft at 740 width despite sharpening.
+
+Files: Personopplysningsloven_84x84.png (symbol, white rounded-square canvas), Personopplysningsloven_180x180.png (symbol, transparent), Personopplysningsloven_740x340.png (full wordmark, transparent), Personopplysningsloven_original.png (untouched 202x50 source). Extra source kept: dt_android192.png (symbol source).

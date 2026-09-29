@@ -1,0 +1,19 @@
+Compliance / Regulation: Säkerhetsskyddslagen (Swedish Protective Security Act) - Sweden
+Enforcing authority: Säkerhetspolisen (Swedish Security Service, SÄPO) - lead supervisor
+(also supervised by the Swedish Armed Forces and sector regulators), sakerhetspolisen.se
+
+LOGO RESOLUTION
+National security law with NO official compliance mark. Used the lead supervisory authority's
+(Säkerhetspolisen) heraldic arms. AGENCY mark, NOT a compliance/endorsement badge.
+
+Logo URL : https://upload.wikimedia.org/wikipedia/commons/5/5c/S%C3%A4kerhetspolisen_vapen.svg
+Source   : Wikimedia Commons - File:Säkerhetspolisen vapen.svg
+License  : CC BY-SA 2.5 -> ATTRIBUTION + SHARE-ALIKE REQUIRED for published use.
+Commercial use: Yes, with attribution and share-alike (CC BY-SA 2.5).
+Why selected  : Säkerhetspolisen is the primary supervisory authority for the Protective
+                Security Act. Its heraldic arms (vapen) is the agency emblem; license is
+                commercial-use compatible (with attribution + share-alike).
+Decision : Heraldic crest (no text) - full crest used at all 3 sizes (no symbol-only crop needed).
+Provenance: Original SVG and renders reused from the verified 2026-06-08 batch archive;
+           renders visually re-verified 2026-07-14.
+Date     : 2026-07-14

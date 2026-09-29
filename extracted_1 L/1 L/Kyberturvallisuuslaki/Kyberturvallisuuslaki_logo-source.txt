@@ -1,0 +1,11 @@
+Kyberturvallisuuslaki (Finnish Cybersecurity Act) - Finland
+Authority / logo: Traficom - Finnish Transport and Communications Agency / NCSC-FI (kyberturvallisuuskeskus.fi)
+
+Logo URL: https://www.traficom.fi/files/icons/svg/logo_traficom_en_nopadding.svg
+Source:   https://www.traficom.fi/en (official site header logo; re-downloaded fresh 2026-07-14)
+Why selected: The Finnish Cybersecurity Act has no official compliance mark. Supervisor/CSIRT is NCSC-FI, part of Traficom; used the official Traficom logo (EN version with tagline). Agency mark, NOT a compliance/endorsement badge.
+License / commercial use: Finnish public-authority logo (Traficom); restricted use.
+Decisions: Pure wordmark, no separate symbol -> full wordmark at all 3 sizes (small but legible at 84x84; no symbol-only crop possible). Rasterized via Playwright Chromium device_scale_factor=8 (2400x504, transparent).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

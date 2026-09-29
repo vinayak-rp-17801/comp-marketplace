@@ -1,0 +1,21 @@
+Compliance: Polish Personal Data Protection Act (RODO + UODO, Polish GDPR implementation) - Poland
+Enforcing authority: UODO (Urząd Ochrony Danych Osobowych - Polish DPA)
+
+LOGO RESOLUTION
+National GDPR implementation law with NO official compliance mark. Used the supervisory
+authority's (UODO) official institutional logo. AGENCY logo, NOT a compliance/endorsement mark.
+
+Logo URL : https://uodo.gov.pl/bundles/app/images/logo.svg
+Source   : Official site uodo.gov.pl - header institutional logo (UODO lettermark, "UO" red / "DO" navy,
+           with "URZĄD OCHRONY DANYCH OSOBOWYCH" wordmark line)
+License  : Polish public-authority logo; all rights reserved / use restricted - must not imply
+           certification, compliance or endorsement.
+Commercial use: Restricted - agency identity mark.
+Why selected  : UODO is the Polish data-protection supervisory authority enforcing the Act.
+                Logo taken from the regulator's own site header. Re-verified 2026-07-14
+                (identical bytes to the 2026-06-08 archive copy).
+Rejected : "Twoje Dane Twoja Sprawa" badge on the UODO press page - awareness-campaign logo,
+           not the authority mark.
+Decision : Compact stacked lettermark - FULL logo at all 3 sizes (no symbol-only crop).
+           SVG rasterized with Playwright Chromium at 16x (2224x976, transparent background).
+Date     : 2026-07-14

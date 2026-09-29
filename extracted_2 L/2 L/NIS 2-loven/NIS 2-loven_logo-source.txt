@@ -1,0 +1,22 @@
+Compliance: NIS 2-loven (Danish NIS2 Act)
+Short name used: NIS 2-loven
+Date: 2026-07-14
+
+LOGO RESOLUTION
+The Danish NIS2 Act (Lov om foranstaltninger til sikring af et hoejt cybersikkerhedsniveau, Law No. 434 of 6 May 2025) has NO official compliance/certification badge. Per the logo-resolution order, fell back to the enforcing body: Center for Cybersikkerhed (CFCS, cfcs.dk) — the NIS2 competent authority, single point of contact, and national CSIRT — which since Jan 2025 operates under Styrelsen for Samfundssikkerhed (SAMSIK). The current SAMSIK agency logo (the branding cfcs.dk itself carries) is used.
+
+>> This is the SAMSIK (Styrelsen for Samfundssikkerhed / CFCS) agency logo, NOT a "NIS2 compliant" mark. It must not be used to imply compliance, certification, or agency endorsement.
+
+Logo URL:  https://samsik.dk/wp-content/uploads/2026/01/SamSik_Logo_Black_RGB.svg
+Source:    Official SAMSIK website header logo (samsik.dk; also the branding used on cfcs.dk — note the cfcs.dk host returns HTML for this asset path; the samsik.dk host serves the real SVG). Source independently validated in the 2026-06-08 batch; reused here.
+Why selected: Confirmed official current logo of the agency that operates CFCS, the Danish NIS2 competent authority/CSIRT. No Wikimedia/PD alternative.
+License:   Official Danish public-authority agency logo (all rights reserved; includes the royal-crown national symbol). Use governed by agency branding rules; do not use to imply endorsement.
+Commercial use: Restricted — official agency logo; verify before product use.
+
+RENDERING — SYMBOL-ONLY RULE APPLIED
+Wide horizontal layout: Danish royal crown symbol (left) + two-line "Styrelsen for Samfundssikkerhed" text (right); text unreadable at small sizes.
+  84x84 / 180x180 -> royal CROWN symbol only (left block; crop boundary found via empty-column gap detection at x=1112 of 6380px raster).
+  740x340         -> FULL logo (crown + wordmark).
+SVG rasterized with Playwright Chromium (aspect-matched viewport, device_scale_factor=8, transparent), then logo_tools.py: trim, symbol crop, square-pad, multi-step LANCZOS + UnsharpMask. Black monochrome kept faithful — no recolouring.
+
+Files: NIS 2-loven_84x84.png (crown, white rounded-square canvas), NIS 2-loven_180x180.png (crown, transparent), NIS 2-loven_740x340.png (full logo, transparent), NIS 2-loven_original.svg (untouched source).

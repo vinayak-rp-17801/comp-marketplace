@@ -1,0 +1,21 @@
+Compliance / Regulation: Databeskyttelsesloven (Danish Data Protection Act) - Denmark
+Enforcing authority: Datatilsynet (Danish Data Protection Agency, datatilsynet.dk)
+
+LOGO RESOLUTION
+This national law has NO official compliance/certification mark. Per the logo-resolution
+order, the enforcing/supervisory authority's logo is used: the Datatilsynet agency logo.
+This is the AGENCY's mark, NOT a compliance/endorsement badge.
+
+Logo URL : https://www.datatilsynet.dk/Media/638693415191549888/logo-med-tagline.svg
+Source   : Official site datatilsynet.dk - header logo ("logo med tagline")
+License  : Danish public-authority logo. Copyrighted agency mark (NOT public domain).
+           Use governed by Datatilsynet; must not be used to imply endorsement or compliance.
+Commercial use: Restricted - agency identity mark.
+Why selected  : Datatilsynet is the supervisory authority for the Danish Data Protection Act
+                (GDPR national implementation). Official header logo from the regulator's own site.
+Decision : Wordmark logo (gold crown + "DATATILSYNET"). Small italic tagline band cropped off;
+           crown + DATATILSYNET wordmark kept at all 3 sizes. No symbol-only crop (stacked wordmark).
+Provenance: Original SVG and renders reused from the verified 2026-06-08 batch archive
+           (D:\Compliance Extension Documents\30 Compliance Request\Compliance Logos\Databeskyttelsesloven);
+           renders visually re-verified 2026-07-14.
+Date     : 2026-07-14

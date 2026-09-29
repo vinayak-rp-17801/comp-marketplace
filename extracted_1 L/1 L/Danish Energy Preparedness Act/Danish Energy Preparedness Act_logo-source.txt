@@ -1,0 +1,24 @@
+Compliance: Danish Energy Preparedness Act
+Short name used: Danish Energy Preparedness Act
+Date: 2026-07-14
+
+LOGO RESOLUTION
+The Energy Preparedness Act (Lov om styrket beredskab i energisektoren, Act No. 258 of 6 Mar 2025 — Denmark's NIS2 + CER implementation for the energy sector) has NO official compliance/certification badge. Per the logo-resolution order, fell back to the sector-responsible authority: Energistyrelsen — Danish Energy Agency (ens.dk), which supervises and receives incident reports under the Act.
+
+>> This is the Danish Energy Agency (Energistyrelsen) agency logo, NOT a compliance/endorsement mark. It must not be used to imply compliance, certification, or agency endorsement.
+
+Logo URLs:
+  Full logo (740x340): inline <svg> from the page header of https://ens.dk/en (teal circle crown emblem + "Danish Energy Agency" wordmark; viewBox 0 0 1695.53 461.16) — saved as Danish Energy Preparedness Act_original.svg
+  Symbol (84/180):     https://ens.dk/themes/custom/ens/redesign/assets/manifest/favicon.svg (teal circle + white royal crown) — saved as ens_favicon_symbol.svg
+Source:    Official Danish Energy Agency website (ens.dk) — header logo (inline SVG) and site favicon SVG. Confirmed official branding. Source independently validated in the 2026-06-08 batch; reused here.
+Why selected: Confirmed official logo from the agency's own site header and favicon. No Wikimedia/PD version exists.
+License:   Official Danish public-authority agency logo (all rights reserved; includes the royal-crown national symbol). Use governed by agency branding; do not use to imply endorsement.
+Commercial use: Restricted — official agency logo; verify before product use.
+
+RENDERING — SYMBOL-ONLY RULE APPLIED
+Wide horizontal layout: teal circular crown emblem (left) + "Danish Energy Agency" text (right); text unreadable at small sizes.
+  84x84 / 180x180 -> teal-circle CROWN symbol only (from the favicon SVG — already square).
+  740x340         -> FULL logo (teal circle + wordmark).
+SVGs rasterized with Playwright Chromium (favicon at device_scale_factor=16, full logo at 4x; transparent), then logo_tools.py: trim, square-pad, multi-step LANCZOS + UnsharpMask. Official teal (#007672) preserved — no recolouring.
+
+Files: Danish Energy Preparedness Act_84x84.png (symbol, white rounded-square canvas), Danish Energy Preparedness Act_180x180.png (symbol, transparent), Danish Energy Preparedness Act_740x340.png (full logo, transparent), Danish Energy Preparedness Act_original.svg (untouched header SVG). Extra source kept: ens_favicon_symbol.svg (symbol source).

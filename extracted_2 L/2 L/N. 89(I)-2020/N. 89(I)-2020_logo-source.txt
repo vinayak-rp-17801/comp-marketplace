@@ -1,0 +1,11 @@
+N. 89(I)/2020 (Security of Networks and Information Systems Law) - Cyprus
+Authority / logo: DSA - Digital Security Authority (Commissioner of Communications), dsa.cy
+
+Logo URL: https://dsa.cy/background/svg/commisioner-black-logo-en.svg
+Source:   https://dsa.cy/en/ (official site header logo, CSS background SVG embedding a 2803x1182 JPEG)
+Why selected: No official compliance mark for the Cyprus NIS law. Per logo-resolution order used the enforcing authority (Digital Security Authority / Commissioner of Communications) official header logo. Agency mark, NOT a compliance/endorsement badge.
+License / commercial use: Cypriot public-authority logo (DSA / Commissioner of Communications); restricted use.
+Decisions: Vetted original SVG reused from the 2026-06-08 batch. Embedded base64 JPEG extracted directly (no re-rasterization), white background keyed to transparent. SYMBOL-ONLY rule: orange crest (crop 0,0,177,322 of keyed 2038x322) for 84/180; full crest + "Commissioner of Communications | Digital Security Authority" wordmark for 740x340.
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

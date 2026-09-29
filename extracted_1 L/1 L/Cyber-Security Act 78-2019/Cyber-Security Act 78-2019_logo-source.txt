@@ -1,0 +1,11 @@
+Cyber-Security Act 78/2019 - Iceland
+Authority / logo: Fjarskiptastofa - Electronic Communications Office of Iceland (ECOI); CERT-IS operates under it
+
+Logo URL: https://www.fjarskiptastofa.is/_content/Fjarskiptastofa.Theme/images/logo.svg
+Source:   https://www.fjarskiptastofa.is/ (official site header logo; site is a Blazor SPA)
+Why selected: No official compliance mark exists for the Cyber-Security Act 78/2019. Supervisory/competent authority is Fjarskiptastofa (ECOI); its official red 'F' monogram symbol was used. Freshly re-downloaded and verified 2026-07-14.
+License / commercial use: Icelandic public-authority logo; restricted use.
+Decisions: Compact red 'F' monogram symbol - full logo at all 3 sizes (no symbol-only crop needed). SVG rasterized with Playwright Chromium at 20x (600x960, transparent).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo, NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

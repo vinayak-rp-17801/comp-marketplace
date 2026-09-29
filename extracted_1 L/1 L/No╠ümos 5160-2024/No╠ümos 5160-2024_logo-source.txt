@@ -1,0 +1,20 @@
+Compliance: Nómos 5160/2024 (Greek NIS2 transposition law) - Greece
+Enforcing authority: NCSA / EAK - National Cybersecurity Authority (Εθνική Αρχή Κυβερνοασφάλειας), cyber.gov.gr
+
+LOGO RESOLUTION
+National NIS2 law with NO official compliance mark. Used the enforcing authority's (NCSA/EAK)
+official logo. AGENCY logo, NOT a compliance/endorsement mark.
+
+Logo URL : https://cyber.gov.gr/wp-content/uploads/2020/04/eak-logo.png  (1000x600)
+Source   : Official site cyber.gov.gr - header logo (EAK / NCSA)
+License  : Greek public-authority logo; all rights reserved / use restricted - must not imply
+           certification, compliance or endorsement.
+Commercial use: Restricted - agency identity mark.
+Why selected  : The NCSA is the Greek national cybersecurity authority that supervises Law 5160/2024.
+                Official header logo from the regulator's own site. Re-verified 2026-07-14
+                (identical bytes to the 2026-06-08 archive copy).
+Decision : Horizontal logo (blue shield/check symbol + Greek wordmark "ΕΘΝΙΚΗ ΑΡΧΗ ΚΥΒΕΡΝΟΑΣΦΑΛΕΙΑΣ").
+           SYMBOL-ONLY rule applied: shield-check symbol for 84x84/180x180 (measured 2-D crop -
+           bottom wordmark row overlaps the shield columns, so a column-gap-only crop was not enough);
+           full logo for 740x340.
+Date     : 2026-07-14

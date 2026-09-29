@@ -1,0 +1,22 @@
+Compliance: ADISSC — Abu Dhabi Information Security Standards & Controls
+Date: 2026-07-14
+
+Logo URL: https://www.dge.gov.ae/-/media/sites/dge/logo/department-of-government-enablement.ashx?iar=0&hash=5C62F2CBBD7067AFCA916DDFDEE3EA04 (SVG)
+Source: Official site header logo of the Department of Government Enablement (DGE), Abu Dhabi — https://www.dge.gov.ae/en
+
+Why selected: ADISSC (originally issued by ADSIC, later ADDA) has NO official compliance mark/badge.
+Per the logo resolution order, the enforcing/parent agency's logo was used: ADDA was merged into the
+Department of Government Enablement (DGE / Abu Dhabi Gov Digital). This is the AGENCY logo, NOT a
+compliance/endorsement mark.
+
+License / commercial use: Official Abu Dhabi government agency logo — all rights reserved; includes the
+Abu Dhabi Government falcon emblem (state symbol). RESTRICTED — fine to display as the authority's logo,
+never to imply certification/compliance/endorsement. (uaelogos.ae offers the same logo "for personal and
+reference use only".)
+
+Decisions:
+- Symbol-only rule applied: wide horizontal layout (Arabic name + English name + falcon emblem on right).
+  84x84 / 180x180 = Abu Dhabi falcon emblem block only (crop x 9265-11325 of 11325x2641 trimmed 8x raster);
+  740x340 = full logo.
+- SVG rasterized with Playwright Chromium at 8x, transparent (saved as ADISSC_raster.png).
+Files: ADISSC_original.svg (do not modify), ADISSC_raster.png, ADISSC_84x84.png, ADISSC_180x180.png, ADISSC_740x340.png

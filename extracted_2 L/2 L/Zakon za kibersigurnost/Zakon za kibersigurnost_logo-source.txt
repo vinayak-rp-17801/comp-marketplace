@@ -1,0 +1,11 @@
+Zakon za kibersigurnost (Bulgarian Cybersecurity Act) - Bulgaria
+Authority / logo: Ministry of e-Government (egov.government.bg) / national CSIRT govcert.bg
+
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Coat_of_arms_of_Bulgaria.svg/1280px-Coat_of_arms_of_Bulgaria.svg.png
+Source:   https://commons.wikimedia.org/wiki/File:Coat_of_arms_of_Bulgaria.svg ; emblem as used on the Ministry of e-Government portal header (egov.government.bg, Gerb emblem) - verified in prior batch record 2026-06-08
+Why selected: The Bulgarian Cybersecurity Act has no official compliance mark. The enforcing Ministry of e-Government has no distinct usable logo (portal header displays the state coat of arms; ministry mobile logo only 50x42). Used the hi-res public-domain Republic of Bulgaria coat of arms that the authority itself displays. State emblem, NOT a compliance/endorsement badge.
+License / commercial use: Public Domain (Wikimedia Commons) - Republic of Bulgaria state coat of arms. Use as a national symbol is regulated by Bulgarian law; must not imply state endorsement.
+Decisions: Full emblem at all 3 sizes (compact heraldic layout, no symbol-only crop). govcert.bg unreachable from this network at build time.
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

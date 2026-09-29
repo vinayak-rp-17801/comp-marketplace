@@ -1,0 +1,19 @@
+Compliance: Digitalsikkerhetsloven (Norwegian Digital Security Act)
+Short name used: Digitalsikkerhetsloven
+Date: 2026-07-14
+
+LOGO RESOLUTION
+The Digital Security Act (Lov om digital sikkerhet, Law No. 108 of 20 Dec 2023 — Norway's NIS implementation) is a national law with NO official compliance/certification badge. Per the logo-resolution order, fell back to the enforcing/coordinating agency: NSM — Nasjonal sikkerhetsmyndighet (Norwegian National Security Authority, nsm.no), the central coordinator and national CSIRT named in the regulation.
+
+>> This is the NSM agency emblem, NOT a "Digitalsikkerhetsloven compliant" mark. It must not be used to imply compliance, certification, or NSM endorsement.
+
+Logo URL:  https://upload.wikimedia.org/wikipedia/commons/8/84/Emblem_of_the_Norwegian_National_Security_Authority.svg
+Source:    Wikimedia Commons — File:Emblem_of_the_Norwegian_National_Security_Authority.svg (NSM's stylised falcon emblem, in use since 5 Mar 2018; matches nsm.no branding). Source independently validated in the 2026-06-08 batch; reused here.
+Why selected: No official mark exists for the law itself; NSM is the enforcing agency, and this is its confirmed official emblem.
+License:   CC0 1.0 Universal (Public Domain Dedication). NOTE: USE additionally restricted under Norwegian penal law (national-symbol protection) independent of copyright — copying is free, but do not use to imply official status/endorsement.
+Commercial use: Copying free (CC0); USE restricted by Norwegian national-symbol law.
+
+RENDERING
+Compact falcon emblem (333x500 viewBox, black upper / orange lower bars). Not a wide horizontal layout -> FULL emblem used at all three sizes (symbol-only crop rule NOT applied). SVG rasterized with Playwright Chromium (viewport matched to viewBox aspect, device_scale_factor=8, transparent), then logo_tools.py: trim, square-pad, multi-step LANCZOS + UnsharpMask. 84x84 on white rounded-square canvas; 180x180 and 740x340 transparent.
+
+Files: Digitalsikkerhetsloven_84x84.png, Digitalsikkerhetsloven_180x180.png, Digitalsikkerhetsloven_740x340.png, Digitalsikkerhetsloven_original.svg (untouched source).

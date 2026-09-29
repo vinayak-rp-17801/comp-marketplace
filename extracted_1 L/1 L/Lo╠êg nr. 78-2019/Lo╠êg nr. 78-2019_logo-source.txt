@@ -1,0 +1,11 @@
+Lög nr. 78/2019 (Cyber-Security Act, NIS2 transposition pending) - Iceland
+Authority / logo: Fjarskiptastofa - Electronic Communications Office of Iceland (ECOI); CERT-IS operates under it
+
+Logo URL: https://www.fjarskiptastofa.is/_content/Fjarskiptastofa.Theme/images/logo.svg
+Source:   https://www.fjarskiptastofa.is/ (official site header logo; site is a Blazor SPA)
+Why selected: Independent evaluation: the pending NIS2 transposition amends the same statute (log nr. 78/2019) and keeps Fjarskiptastofa/CERT-IS as competent authority/CSIRT, so the same agency logo is genuinely the right source. No official compliance mark exists.
+License / commercial use: Icelandic public-authority logo; restricted use.
+Decisions: Same official red 'F' monogram as the Cyber-Security Act 78/2019 entry; full logo at all 3 sizes. SVG rasterized with Playwright Chromium at 20x (600x960, transparent).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo, NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

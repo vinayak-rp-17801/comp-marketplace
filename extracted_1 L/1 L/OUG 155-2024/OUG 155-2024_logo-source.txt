@@ -1,0 +1,18 @@
+Compliance: OUG 155/2024 (Romanian NIS2 transposition, Emergency Ordinance 155/2024) - Romania
+Enforcing authority: DNSC (Directoratul Național de Securitate Cibernetică / National Cyber Security Directorate)
+
+LOGO RESOLUTION
+National NIS2 law with NO official compliance mark. Used the enforcing authority's (DNSC)
+official logo. AGENCY logo, NOT a compliance/endorsement mark.
+
+Logo URL : https://upload.wikimedia.org/wikipedia/commons/9/9f/DNSC_Logo.jpg
+Source   : Wikimedia Commons - File:DNSC Logo.jpg (2194x746). Matches the logo used by dnsc.ro.
+License  : CC BY-SA 4.0 -> ATTRIBUTION + SHARE-ALIKE REQUIRED for published use.
+Commercial use: Yes, with attribution + share-alike (CC BY-SA 4.0).
+Why selected  : DNSC is the Romanian national cybersecurity authority enforcing OUG 155/2024.
+                Commercial-use-clean licensed copy on Wikimedia Commons. Re-verified 2026-07-14
+                (identical bytes to the 2026-06-08 archive copy).
+Decision : Wide horizontal logo ("GUVERNUL ROMÂNIEI" round seal + "DIRECTORATUL NAȚIONAL DE
+           SECURITATE CIBERNETICĂ" text). SYMBOL-ONLY rule applied: round seal for 84x84/180x180;
+           full logo for 740x340. JPG white background keyed to transparent before rendering.
+Date     : 2026-07-14

@@ -1,0 +1,19 @@
+Compliance: NGCB Cyber Regulation — Nevada Gaming Control Board Regulation 5.260 (cybersecurity)
+Date: 2026-07-14
+
+Logo URL: https://gaming.nv.gov/globalassets/nv-seal-300x300.png
+Source: Official Nevada Gaming Control Board / Nevada Gaming Commission website header seal — https://gaming.nv.gov/
+
+Why selected: Regulation 5.260 has NO compliance mark. Per the logo resolution order, the enforcing agency's
+mark was used: the seal displayed twice in the gaming.nv.gov header as the primary branding of the Nevada Gaming
+Commission and the Nevada Gaming Control Board (it is the Great Seal of the State of Nevada as used by the Board).
+This is the AGENCY/state seal, NOT a compliance/endorsement mark.
+
+License / commercial use: US state government work — the Great Seal of Nevada is a public record image, but
+Nevada law (NRS 235.010) regulates use of the state seal; do not use to imply state endorsement. Treat as
+restricted-use despite public-record status.
+
+Decisions:
+- Round seal, compact — FULL image at all 3 sizes (no symbol-only crop). Source is 300x300 (site's largest);
+  slightly soft at 740 but acceptable.
+Files: NGCB Cyber Regulation_original.png (300x300, do not modify), _84x84.png, _180x180.png, _740x340.png

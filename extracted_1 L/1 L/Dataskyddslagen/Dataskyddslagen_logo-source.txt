@@ -1,0 +1,19 @@
+Compliance / Regulation: Dataskyddslagen (Swedish Data Protection Act) - Sweden
+Enforcing authority: IMY - Integritetsskyddsmyndigheten (Swedish Authority for Privacy
+Protection), imy.se
+
+LOGO RESOLUTION
+GDPR national implementation with NO official compliance mark. Used the supervisory
+authority's (IMY) official logo. AGENCY mark, NOT a compliance/endorsement badge.
+
+Logo URL : https://upload.wikimedia.org/wikipedia/commons/a/a7/Integritetsskyddsmyndigheten_logo.png
+Source   : Wikimedia Commons - File:Integritetsskyddsmyndigheten logo.png (6528x1182)
+License  : Public Domain.
+Commercial use: Yes (Public Domain, commercial-use clean).
+Why selected  : IMY is the Swedish supervisory authority for the Data Protection Act.
+                Official wordmark, public domain.
+Decision : Wide horizontal logo ("IMY." mark + "Integritetsskyddsmyndigheten" text).
+           SYMBOL-ONLY rule applied: "IMY." mark for 84x84 / 180x180; full logo for 740x340.
+Provenance: Original PNG and renders reused from the verified 2026-06-08 batch archive;
+           renders visually re-verified 2026-07-14.
+Date     : 2026-07-14

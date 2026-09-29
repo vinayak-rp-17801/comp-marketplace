@@ -1,0 +1,11 @@
+DPA Cap. 586 (Data Protection Act, Chapter 586) - Malta
+Authority / logo: IDPC - Information and Data Protection Commissioner (Malta), idpc.org.mt
+
+Logo URL: https://idpc.org.mt/wp-content/uploads/2020/05/cropped-Favicon-270x270.png
+Source:   https://idpc.org.mt/ (official site brand symbol / app icon)
+Why selected: No official compliance mark for the Data Protection Act (Cap. 586). Per logo-resolution order used the supervisory authority (IDPC) brand symbol from its official site. Agency mark, NOT a compliance/endorsement badge.
+License / commercial use: Maltese public-authority logo (IDPC); restricted use.
+Decisions: Vetted original PNG (270x270, transparent) reused from the 2026-06-08 batch. The site wordmark is white-on-dark (unusable on transparent), so the colour "idpc." square symbol was used FULL at all sizes.
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

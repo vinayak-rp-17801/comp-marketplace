@@ -1,0 +1,11 @@
+NIST SP 800-92 (Guide to Computer Security Log Management) - USA
+Authority / logo: NIST - National Institute of Standards and Technology (nist.gov)
+
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/e/ee/NIST_logo.svg
+Source:   Wikimedia Commons - File:NIST logo.svg (official NIST wordmark, monochrome variant; matches nist.gov branding)
+Why selected: NIST SP 800-92 has no official compliance mark/badge. Per the logo resolution order, fell back to the owning agency: NIST. The official NIST wordmark was used, labelled as the AGENCY logo, NOT a compliance mark.
+License / commercial use: Public Domain (work of the U.S. federal government). NOTE: NIST policy prohibits use of its name/logo in a manner implying NIST endorsement, certification, or approval - display only to refer to the standard.
+Decisions: Single wordmark with no separable icon symbol - full wordmark at all 3 sizes (no symbol-only crop; Bank of England / Traficom precedent). Rendered from the 1280px Commons PNG (black monochrome variant; NIST's color variant is dark blue, but the Commons monochrome is an official variant and was kept faithful - no recoloring). Hi-res raster kept as _raster_hi.png for future re-renders.
+Date: 2026-07-20
+
+NOTE: This is the owning AGENCY's logo, NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

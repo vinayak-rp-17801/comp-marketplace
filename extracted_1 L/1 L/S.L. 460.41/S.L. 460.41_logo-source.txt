@@ -1,0 +1,11 @@
+S.L. 460.41 (Maltese NIS2 subsidiary legislation / order) - Malta
+Authority / logo: Critical Infrastructure Protection Directorate (CIPD) / CSIRTMalta - maltacip.gov.mt (Government of Malta emblem)
+
+Logo URL: https://maltacip.gov.mt/wp-content/uploads/2023/06/gov-logo.png
+Source:   https://maltacip.gov.mt/en/ (official site header logo of the CIP Directorate)
+Why selected: No official compliance mark for S.L. 460.41. The competent authority (CIPD / CSIRTMalta) site uses the Government of Malta emblem (coat of arms) as its header logo; used that, labelled as the Government of Malta / CIPD mark, NOT a compliance/endorsement badge.
+License / commercial use: Government of Malta emblem (national coat of arms) as used by the CIP Directorate; official state mark, restricted use.
+Decisions: Vetted original PNG (188x188, transparent; source is Cloudflare-locked, originally downloaded 2026-06-08 via browser session cookie) reused. Square emblem, FULL at all sizes (no symbol-only crop).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

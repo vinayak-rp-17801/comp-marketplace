@@ -1,0 +1,19 @@
+Compliance: Nómos 5086/2024 (law establishing the Greek National Cybersecurity Authority) - Greece
+Enforcing authority: NCSA / EAK - National Cybersecurity Authority (Εθνική Αρχή Κυβερνοασφάλειας), cyber.gov.gr
+
+LOGO RESOLUTION
+Institutional/establishing law with NO official compliance mark. Evaluated independently:
+Law 5086/2024 is the statute that CREATED the NCSA itself, so the NCSA's own official logo is
+the directly appropriate mark - same source as Nómos 5160/2024, reused deliberately.
+AGENCY logo, NOT a compliance/endorsement mark.
+
+Logo URL : https://cyber.gov.gr/wp-content/uploads/2020/04/eak-logo.png  (1000x600)
+Source   : Official site cyber.gov.gr - header logo (EAK / NCSA)
+License  : Greek public-authority logo; all rights reserved / use restricted - must not imply
+           certification, compliance or endorsement.
+Commercial use: Restricted - agency identity mark.
+Why selected  : This law established the NCSA; no separate mark exists for the law itself.
+                Re-verified 2026-07-14 (identical bytes to the 2026-06-08 archive copy).
+Decision : Same treatment as Nómos 5160/2024 - SYMBOL-ONLY shield-check for 84x84/180x180
+           (measured 2-D crop), full logo for 740x340.
+Date     : 2026-07-14

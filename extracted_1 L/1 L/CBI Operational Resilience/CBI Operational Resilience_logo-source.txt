@@ -1,0 +1,6 @@
+Logo URL: https://www.centralbank.ie/images/default-source/logos/logo.png?sfvrsn=3dff671a_5
+Source: Official site header logo, Central Bank of Ireland homepage (https://www.centralbank.ie/) — confirmed as the site's masthead branding.
+Why selected: The CBI Cross-Industry Guidance on Operational Resilience is regulator guidance with NO official compliance mark/badge. Per the logo resolution order, the enforcing agency's logo is used: Central Bank of Ireland (gold medallion + "Banc Ceannais na hEireann / Central Bank of Ireland / Eurosystem" wordmark). This is the AGENCY logo, NOT a compliance/certification mark.
+License / commercial use: Irish public-authority logo — copyrighted/trademarked agency mark, all rights reserved; restricted. Fine to display as the authority's logo; must NOT be used to imply certification, compliance, or endorsement by the Central Bank of Ireland. (A PD-textlogo copy also exists on Wikimedia Commons: File:Central_Bank_of_Ireland_Letters.png, 300x68 — official source preferred for resolution/fidelity.)
+Symbol-only decision: YES — wide horizontal layout (gold ornamental medallion left, text right; empty-column gap at x=68-75 of the 288x126 source). 84x84 and 180x180 use the gold medallion only (crop 0,0,68,126); 740x340 uses the full logo.
+Date: 2026-07-14

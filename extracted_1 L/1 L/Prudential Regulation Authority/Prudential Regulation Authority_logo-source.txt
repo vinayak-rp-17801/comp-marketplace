@@ -1,0 +1,7 @@
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/5/59/Bank_of_England_letters.svg
+Source: Wikimedia Commons — File:Bank of England letters.svg (sourced from the Bank of England official website footer logo, bankofengland.co.uk).
+Why selected: The Prudential Regulation Authority is part of the Bank of England (bankofengland.co.uk/prudential-regulation) and has no standalone published logo/mark — PRA pages carry the Bank of England brand. Per the logo resolution order, the parent agency's logo is used: the Bank of England wordmark. This is the AGENCY logo, NOT a compliance/certification mark. No PRA-specific or Commons PRA logo exists; no official mark for "PRA compliance" exists.
+License / commercial use: Public Domain (ineligible for copyright — simple text wordmark, no original authorship), commercial-use clean for copying. "Bank of England" name/brand remains protected — do not use to imply Bank of England/PRA endorsement or authorization.
+Symbol-only decision: NO CROP POSSIBLE — pure wordmark, no graphic symbol (like Traficom precedent). Full wordmark used at all 3 sizes; text is small but legible at 84x84.
+Rasterization: SVG (512x67) rendered with Playwright Chromium at 8x device scale (9600x1256, transparent), then Pillow multi-step LANCZOS + UnsharpMask.
+Date: 2026-07-14

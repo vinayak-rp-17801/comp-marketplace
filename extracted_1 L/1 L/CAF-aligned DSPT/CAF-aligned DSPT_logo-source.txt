@@ -1,0 +1,7 @@
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/d/d3/National_Health_Service_%28England%29_logo.svg
+Source: Wikimedia Commons — File:NHS-Logo.svg (the NHS blue lozenge, identical to the branding on dsptoolkit.nhs.uk and digital.nhs.uk site headers).
+Why selected: The CAF-aligned Data Security and Protection Toolkit (DSPT) is an NHS England assurance framework with NO public compliance badge of its own. Per the logo resolution order, the owning agency's identity is used: the NHS logo (NHS England operates the DSPT under the NHS identity). This is the AGENCY logo, NOT a compliance/certification mark.
+License / commercial use: PD-textlogo on Commons (simple text/geometry, below threshold of originality) — copying is not a copyright issue. HOWEVER the NHS identity is Crown-protected: the NHS logo is a UK registered trademark protected by the NHS Act 2006 and managed by DHSC/NHS England under strict NHS Identity usage rules — third parties may not use it without permission, and it must NEVER be used to imply NHS endorsement, partnership, or DSPT compliance status. RESTRICTION RECORDED — verify with NHS Identity guidelines (england.nhs.uk/nhsidentity) before any product/marketing use.
+Symbol-only decision: NO — compact lozenge (aspect ~2.5:1, three letters), fully legible at 84x84. Full logo at all 3 sizes.
+Rasterization: SVG (371x150) rendered with Playwright Chromium at 12x device scale (4452x1800, transparent), then Pillow multi-step LANCZOS + UnsharpMask.
+Date: 2026-07-14

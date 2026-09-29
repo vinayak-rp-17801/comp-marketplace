@@ -1,0 +1,11 @@
+Tietosuojalaki (Data Protection Act 1050/2018) - Finland
+Authority / logo: Office of the Data Protection Ombudsman (Tietosuojavaltuutetun toimisto)
+
+Logo URL: https://tietosuoja.fi/documents/6927448/7644525/Yl%C3%A4tunniste+-+Logo+EN/f392af71-9833-4946-8c6a-eb068401f52c (downloaded via Wayback Machine mirror, web.archive.org, because tietosuoja.fi live site sits behind Cloudflare Turnstile)
+Source:   https://tietosuoja.fi/en/home (official site header logo, EN version). Authenticity cross-checked against the office's X account avatar (@Tietosuoja_DPA) - identical blue keyhole-figure symbol.
+Why selected: No official compliance mark exists for Tietosuojalaki. Per the logo-resolution order the supervisory authority's official logo was used: blue keyhole/figure symbol + "OFFICE OF THE DATA PROTECTION OMBUDSMAN" wordmark. This REPLACES the earlier text fallback (2026-06-08 batch) - the official logo was retrievable via the Wayback Machine.
+License / commercial use: Finnish public-authority logo; restricted use.
+Decisions: Symbol-only rule applied (wide horizontal layout, gap at px 130-154): blue keyhole symbol only for 84x84/180x180; full header logo (symbol + wordmark) for 740x340. Original 803x130 PNG, transparent background.
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo, NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

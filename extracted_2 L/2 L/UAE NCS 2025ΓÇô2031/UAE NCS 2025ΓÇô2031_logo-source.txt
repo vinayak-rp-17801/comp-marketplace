@@ -1,0 +1,11 @@
+UAE National Cybersecurity Strategy 2025-2031 - United Arab Emirates
+Authority / logo: UAE Cyber Security Council (CSC, csc.gov.ae)
+
+Logo URL: https://www.csc.gov.ae/assets/front/media/logo.svg (colour header logo of the official CSC site; downloaded via Wayback Machine mirror, web.archive.org, because csc.gov.ae is unreachable from this network). SVG embeds a 3832x763 PNG which was extracted as the raster source.
+Source:   https://csc.gov.ae/ (official Cyber Security Council site header). The current (2026) site header serves the same lockup in white-on-dark (Group.svg + Falcon.svg) which is unusable on light canvases; the colour rendition from the site's own assets was used instead.
+Why selected: The National Cybersecurity Strategy 2025-2031 is a strategy document with no compliance/certification badge. Per the logo-resolution order the issuing authority's (CSC) official logo was used: gold Arabic + "CYBER SECURITY COUNCIL" wordmark with the UAE federal emblem.
+License / commercial use: UAE government-authority logo (includes the UAE national emblem); restricted use.
+Decisions: Symbol-only rule (wide horizontal layout, gap at px 3061-3318): UAE falcon emblem only (rows 0-690, caption text excluded) for 84x84/180x180 - the CSC itself uses this emblem as its favicon and X avatar, confirming it as the council's small-size mark; full colour lockup for 740x340. Saved as _original.svg plus _original-embedded.png (extracted raster).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo, NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

@@ -1,0 +1,11 @@
+Georgia InfoSec Law No. 6391-IS (Law of Georgia on Information Security) - Georgia
+Authority / logo: Digital Governance Agency (DGA, ex Data Exchange Agency; operates CERT.GOV.GE)
+
+Logo URL: https://dga.gov.ge/images/main-logo.svg
+Source:   https://dga.gov.ge/ (official site header logo; re-downloaded fresh 2026-07-14)
+Why selected: The Information Security law has no official compliance mark. Competent authority is the Digital Governance Agency (operator of CERT.GOV.GE); used its official header logo. Agency mark, NOT a compliance/endorsement badge.
+License / commercial use: Georgian public-authority logo (DGA); restricted use.
+Decisions: Wide logo (navy cube emblem with orange accent + Georgian wordmark). Nested fixed-size SVGs -> rasterized via Playwright Chromium device_scale_factor=20 (2080x600, transparent). Symbol-only rule: emblem (columns 0-630, gap detected at x=560-700) for 84x84/180x180; full logo for 740x340.
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

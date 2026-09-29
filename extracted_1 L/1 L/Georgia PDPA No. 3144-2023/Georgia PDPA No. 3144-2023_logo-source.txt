@@ -1,0 +1,12 @@
+Georgia PDPA No. 3144/2023 (Law on Personal Data Protection) - Georgia
+Authority / logo: PDPS - Personal Data Protection Service of Georgia (pdps.ge)
+
+Logo URL: https://graph.facebook.com/PDPSGeorgiaOfficial/picture?type=large&width=720&height=720
+Source:   Official PDPS Facebook page avatar, https://www.facebook.com/PDPSGeorgiaOfficial/ (720x720 JPEG). pdps.ge / personaldata.ge / old.pdps.ge geo-blocked (503/ECONNREFUSED) from this network AND from the WebFetch relay; Wayback also unreachable, so the mark could not be cross-checked against the official site itself.
+Why selected: Law 3144/2023 has no official compliance mark. Used the PDPS agency identity mark (teal/navy hand-over-fingerprint symbol) from the authority's official Facebook account. Agency mark, NOT a compliance/endorsement badge.
+IMPORTANT correction vs 2026-06-08 batch: the earlier record used https://unavatar.io/x/pdps_georgia, which returns unavatar's GENERIC pixel-face fallback (1506 bytes), not the PDPS logo. That earlier asset is wrong and has been replaced by the real PDPS mark here.
+License / commercial use: Georgian public-authority logo (PDPS); restricted use.
+Decisions: JPEG white background keyed to transparent before rendering; full symbol at all 3 sizes (square mark, no symbol-only crop).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.

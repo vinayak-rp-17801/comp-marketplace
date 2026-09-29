@@ -1,0 +1,22 @@
+Compliance: DSPT — NHS Data Security and Protection Toolkit
+Date: 2026-07-14
+
+Logo URL: https://upload.wikimedia.org/wikipedia/commons/d/d3/National_Health_Service_%28England%29_logo.svg
+Raster used for rendering: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/National_Health_Service_%28England%29_logo.svg/1280px-National_Health_Service_%28England%29_logo.svg.png
+Source: Wikimedia Commons vector of the official NHS (England) logo — the identity used by NHS England /
+dsptoolkit.nhs.uk / digital.nhs.uk.
+
+Why selected: The DSPT itself has NO standalone mark (the toolkit is branded under the NHS identity).
+Per the logo resolution order, the operating authority's logo (NHS England — NHS blue lozenge) was used.
+This is the AGENCY logo, NOT a compliance/endorsement mark.
+
+License / commercial use: Copyright: Public Domain on Commons (simple text/geometry below threshold of
+originality). HOWEVER the NHS identity is STRICTLY PROTECTED: "NHS" and the NHS logo are Crown-protected
+registered trade marks (protected under the NHS Act 2006; managed by DHSC/NHS England identity guidelines,
+england.nhs.uk). RESTRICTED — use only to refer to the NHS/DSPT; never to imply NHS endorsement, partnership
+or certification; NHS Blue = Pantone 300 (#005EB8).
+
+Decisions:
+- Compact lozenge wordmark ("NHS" white on blue) — FULL logo at all 3 sizes (no symbol-only crop; text is the logo
+  and remains readable at 84x84).
+Files: DSPT_original.svg (do not modify), DSPT_raster_1280.png, _84x84.png, _180x180.png, _740x340.png

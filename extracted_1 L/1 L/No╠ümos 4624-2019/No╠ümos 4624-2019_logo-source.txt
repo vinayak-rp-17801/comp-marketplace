@@ -1,0 +1,11 @@
+Nómos 4624/2019 (Greek GDPR implementation law) - Greece
+Authority / logo: HDPA - Hellenic Data Protection Authority
+
+Logo URL: https://www.dpa.gr/sites/default/files/inline-images/DPA%20LOGO_300pixel%20UK.jpg
+Source:   https://www.dpa.gr/en (official site header logo)
+Why selected: No official compliance/certification mark exists for Law 4624/2019. Per logo-resolution order used the supervisory authority (HDPA) header logo from its official site dpa.gr. Agency mark, NOT a compliance/endorsement badge.
+License / commercial use: Greek public-authority logo (HDPA) - copyrighted agency mark; restricted use.
+Decisions: Vetted original reused from the 2026-06-08 batch (identical source). White background keyed to transparent. Compact emblem+text logo (aspect ~1.43) used FULL at all sizes (no symbol-only crop).
+Date: 2026-07-14
+
+NOTE: This is the enforcing/supervisory AGENCY's logo (or a state emblem), NOT an official compliance or certification mark. It must not be used to imply certification, compliance, or endorsement.
