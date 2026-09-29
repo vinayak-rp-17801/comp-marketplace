@@ -69,20 +69,36 @@ def analyze_anvisa_template():
     # Extract paragraphs and their styles
     for para in doc.paragraphs:
         if para.text.strip():
+            runs_data = []
+            for run in para.runs:
+                run_info = {
+                    "text": run.text,
+                    "bold": run.bold,
+                    "italic": run.italic,
+                    "font_size": None,
+                    "color": None
+                }
+                # Safely handle font size (can be float or None)
+                try:
+                    if run.font.size:
+                        run_info["font_size"] = int(run.font.size.pt)
+                except (TypeError, ValueError):
+                    run_info["font_size"] = None
+                
+                # Safely handle color
+                try:
+                    if run.font.color and run.font.color.rgb:
+                        run_info["color"] = str(run.font.color.rgb)
+                except Exception:
+                    run_info["color"] = None
+                
+                runs_data.append(run_info)
+            
             template_data["paragraphs"].append({
                 "text": para.text,
                 "style": para.style.name,
                 "alignment": str(para.alignment),
-                "runs": [
-                    {
-                        "text": run.text,
-                        "bold": run.bold,
-                        "italic": run.italic,
-                        "font_size": run.font.size,
-                        "color": str(run.font.color.rgb) if run.font.color.rgb else None
-                    }
-                    for run in para.runs
-                ]
+                "runs": runs_data
             })
     
     # Extract tables
@@ -122,7 +138,7 @@ def extract_compliance_names(extracted_data):
             parts = item["path"].split("/")
             if len(parts) > 1:
                 compliance_name = parts[1]
-                if compliance_name and not compliance_name.startswith("."):
+                if compliance_name and not compliance_name.startswith(".") and not compliance_name.startswith("_"):
                     compliances.add(compliance_name)
         
         # Check text file names
@@ -132,7 +148,9 @@ def extract_compliance_names(extracted_data):
                 compliances.add(name)
     
     compliances = sorted(list(compliances))
-    print(f"✅ Found {len(compliances)} potential compliances: {compliances[:5]}...")
+    print(f"✅ Found {len(compliances)} potential compliances")
+    if compliances:
+        print(f"   Examples: {', '.join(compliances[:5])}")
     return compliances
 
 
@@ -163,7 +181,11 @@ def create_compliance_document(template_data, compliance_name, logo_path, screen
     print(f"  Creating document for {compliance_name}...")
     
     # Create new document from scratch or copy template
-    doc = Document("ANVISA for Log360.docx")
+    try:
+        doc = Document("ANVISA for Log360.docx")
+    except Exception as e:
+        print(f"    ❌ Failed to load template: {e}")
+        return None
     
     # Replace product name references
     for para in doc.paragraphs:
@@ -202,9 +224,13 @@ def create_compliance_document(template_data, compliance_name, logo_path, screen
     # Save document
     output_dir.mkdir(parents=True, exist_ok=True)
     output_path = output_dir / f"{compliance_name}.docx"
-    doc.save(output_path)
     
-    return output_path
+    try:
+        doc.save(output_path)
+        return output_path
+    except Exception as e:
+        print(f"    ❌ Failed to save document: {e}")
+        return None
 
 
 def generate_all_compliance_documents(template_data, compliances, extracted_data):
@@ -231,7 +257,8 @@ def generate_all_compliance_documents(template_data, compliances, extracted_data
                 screenshot_path,
                 output_dir
             )
-            created_documents.append(str(doc_path))
+            if doc_path:
+                created_documents.append(str(doc_path))
         except Exception as e:
             print(f"  ❌ Error creating document: {e}")
     
@@ -256,7 +283,8 @@ def create_summary_report(compliances, created_documents):
         f.write("\n## Summary\n\n")
         f.write(f"- **Total Compliances Processed:** {len(compliances)}\n")
         f.write(f"- **Documents Created:** {len(created_documents)}\n")
-        f.write(f"- **Success Rate:** {(len(created_documents)/len(compliances)*100):.1f}%\n")
+        if len(compliances) > 0:
+            f.write(f"- **Success Rate:** {(len(created_documents)/len(compliances)*100):.1f}%\n")
     
     print(f"✅ Report saved to {report_path}")
     return report_path
