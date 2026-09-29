@@ -2,10 +2,6 @@ name: Generate Compliance Documents
 
 on:
   workflow_dispatch:
-  push:
-    paths:
-      - '*.zip'
-      - 'compliance_document_generator.py'
 
 permissions:
   contents: write
@@ -15,10 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     
     steps:
-      - name: Checkout repository
+      - name: Checkout repository (latest main)
         uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          ref: main
+          fetch-depth: 0
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -30,17 +27,27 @@ jobs:
           python -m pip install --upgrade pip
           pip install python-docx
       
+      - name: Verify script was updated
+        run: |
+          echo "📋 Current script version:"
+          head -20 compliance_document_generator.py
+      
       - name: Run compliance document generator
         run: python compliance_document_generator.py
       
-      - name: Commit and push generated documents
+      - name: Commit and push results
+        if: always()
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
+          
+          # Only stage generated content, not extracted files
+          git add generated_documents/ COMPLIANCE_GENERATION_REPORT.md
+          
           if git diff --cached --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: auto-generate compliance documents"
+            echo "Committing generated documents..."
+            git commit -m "chore: auto-generate compliance documents [skip ci]"
             git push origin main
           fi
